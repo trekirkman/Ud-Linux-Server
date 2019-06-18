@@ -193,3 +193,12 @@ Open time configuration GUI and set it to UTC with: `$ sudo dpkg-reconfigure tzd
         sudo service apache2 restart
  
  URL: [34.220.197.8.nip.io](http://34.220.197.8.nip.io)
+ 
+ ## Resources
+ - https://lightsail.aws.amazon.com/ls/docs/en_us/articles/getting-started-with-amazon-lightsail
+ - http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
+ - http://httpd.apache.org/docs/current/configuring.html
+ - https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+ - https://stackoverflow.com/questions/36020374/google-permission-denied-to-generate-login-hint-for-target-domain-not-on-localh
+ - https://stackoverflow.com/questions/31168606/internal-server-error-target-wsgi-script-cannot-be-loaded-as-python-module-and
+ - https://knowledge.udacity.com/questions/8014
