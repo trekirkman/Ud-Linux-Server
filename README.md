@@ -9,7 +9,7 @@ This project takes a baseline installation of a Linux distribution on a virtual 
 
 Public IP address: 34.220.197.8.
 
-URL: [34.220.197.8.nip.io](34.220.197.8.nip.io) (nip.io necessary to authenticate via Google Oauth)
+URL: [34.220.197.8.nip.io](http://34.220.197.8.nip.io) (nip.io necessary to authenticate via Google Oauth)
 
 Accessible SSH port: 2200.
 
@@ -192,4 +192,4 @@ Open time configuration GUI and set it to UTC with: `$ sudo dpkg-reconfigure tzd
 
         sudo service apache2 restart
  
- URL: [34.220.197.8.nip.io](34.220.197.8.nip.io)
+ URL: [34.220.197.8.nip.io](http://34.220.197.8.nip.io)
